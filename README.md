@@ -1,2 +1,2 @@
 # TrafficLight
-This program is to represent a traffic light in using the Assembly Language
+This program is to represent a traffic light using the Assembly Language
